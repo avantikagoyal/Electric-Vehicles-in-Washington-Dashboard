@@ -10,11 +10,12 @@ The primary objective of this analysis is to offer insights into the growing tre
 We utilized Tableau for exploratory data analysis and to create interactive visualizations that highlight key aspects of EV usage in Washington. Challenges such as understanding specific terms like MSRP and CAFV, imputing missing MSRP values, and compiling different workbooks into a cohesive presentation were addressed collaboratively by the team.
 
 ## Key Findings
-A total of 153,830 EVs are registered in Washington, with over 63% being Tesla models.
+A total of 153,830 EVs were registered in Washington in 2023, with over 63% being Tesla models.
 The Tesla Model Y is the most prevalent EV on the road.
 The average base Manufacturer's Suggested Retail Price (MSRP) for EVs is approximately $43,000.
 EVs have an average electric range of 66 miles, with 77% classified as battery electric vehicles (BEVs).
-Interactive Dashboard
+
+## Interactive Dashboard
 Our Tableau dashboard offers interactive visualizations that allow users to explore various dimensions of the data, such as EV distribution by brand, average prices, and electric range. This tool is designed to provide actionable insights and support informed decision-making for both consumers and industry stakeholders.
 
 ## Usage and Contribution
