@@ -1,7 +1,7 @@
 # Electric Vehicle Usage Analysis in Washington State
 
 ## Project Overview
-This project provides an in-depth analysis of electric vehicle (EV) adoption trends in Washington State, leveraging publicly available data from the State of Washington's open data portal. Our team developed an interactive dashboard using Tableau to visualize these trends, focusing on brand preferences, usage patterns, and the shift towards eco-friendly transportation.
+This project provides an in-depth analysis of electric vehicle (EV) adoption trends in Washington in 2023, leveraging publicly available data from the State of Washington's open data portal. Our team developed an interactive dashboard using Tableau to visualize these trends, focusing on brand preferences, usage patterns, and the shift towards eco-friendly transportation.
 
 ## Objective
 The primary objective of this analysis is to offer insights into the growing trend of electric vehicle adoption. By examining data on EV registrations, brand popularity, average prices, and electric range, we aim to serve a broad audience including consumers, industry competitors, policymakers, and researchers. The insights garnered from this analysis are intended to guide consumer decisions, inform competitor strategies, and contribute to the broader discourse on sustainable transportation.
