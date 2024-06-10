@@ -27,6 +27,9 @@ Mrimon “Nemo” Guha
 Rachita Harit
 Rohit Desai
 Qinyi “Erika” Qiu
+
+This is a team project completed as an assignment for UC Davis MSBA course BAX-431 Data Visualization.
+
 We hope this analysis provides valuable insights into the electric vehicle market in Washington State and encourages further research and discussion on sustainable transportation solutions.
 
 For any questions or contributions, please feel free to reach out to us.
